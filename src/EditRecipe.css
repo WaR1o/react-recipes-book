@@ -1,0 +1,9 @@
+.field {
+  display: grid;
+  grid-template-columns: 100px minmax(200px, 1fr);
+  padding-bottom: 10px;
+}
+
+label {
+  align-self: center;
+}
